@@ -3,7 +3,7 @@
 - 👀 I’m interested in math and board games
 - 
 - 📫 How to reach me:
-  - Twitter @Toha31415926
+  - Twitter @imTheToha
   - Telegram @raygek
 
 <!---
