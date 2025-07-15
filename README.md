@@ -5,6 +5,11 @@
 - 📫 How to reach me:
   - Twitter @imTheToha
   - Telegram @raygek
+ 
+
+inline $a=b$ equation.
+
+Equation: $$ax^2+bx+c=0$$ is a quadratic qeuation.
 
 <!---
 RaygekFox/RaygekFox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
